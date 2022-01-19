@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hw2.2Android</string>
+
+    <string name="heading_one">Welcom to productive life!</string>
+    <string name="heading_two">Collaboration with students</string>
+    <string name="heading_three">How to keep up with everything?</string>
+
+    <string name="desc_one">You can plan your time, add and organize tasks. Reminders so that you don\'t forget a thing - we take care of it.</string>
+    <string name="desc_two">You can create a common study.schedule,
+    group tasks, manage them and communicate
+    with other members.</string>
+    <string name="desc_three">You can track your productivity, see your results
+    and progress. Also, this is a great opportunity
+    to track how much time you spend studying!</string>
+</resources>
